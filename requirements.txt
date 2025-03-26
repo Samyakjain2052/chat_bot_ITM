@@ -17,3 +17,8 @@ python-multipart
 pydantic
 starlette
 uuid
+
+
+
+uvicorn
+
